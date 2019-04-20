@@ -25,11 +25,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="823" column="69" selection-start-line="823" selection-start-column="69" selection-end-line="823" selection-end-column="69" />
+            <state relative-caret-position="231">
+              <caret line="873" column="17" lean-forward="true" selection-start-line="873" selection-start-column="17" selection-end-line="873" selection-end-column="17" />
               <folding>
                 <element signature="n#ul#0;n#li#2;n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#9;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#10;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#11;n#body#0;n#html#0;n#!!top" />
@@ -42,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
               <folding>
                 <element signature="n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#li#0;n#ul#0;n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -97,7 +98,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fonts.googleapis.com</find>
       <find>pxiByp8kv8JHgFVrLDz8Z11lFc</find>
       <find>popl1.woff2`</find>
       <find>pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2popl2.woff2</find>
@@ -127,6 +127,7 @@
       <find>team</find>
       <find>hom</find>
       <find>index-ca</find>
+      <find>цві</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -241,12 +242,12 @@
       <workItem from="1555333415802" duration="950000" />
       <workItem from="1555338300834" duration="74000" />
       <workItem from="1555338396797" duration="10803000" />
-      <workItem from="1555517371346" duration="23983000" />
+      <workItem from="1555517371346" duration="27921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35810000" />
+    <option name="totallyTimeSpent" value="39748000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -444,7 +445,7 @@
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding>
             <element signature="n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#li#0;n#ul#0;n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -469,11 +470,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="823" column="69" selection-start-line="823" selection-start-column="69" selection-end-line="823" selection-end-column="69" />
+        <state relative-caret-position="231">
+          <caret line="873" column="17" lean-forward="true" selection-start-line="873" selection-start-column="17" selection-end-line="873" selection-end-column="17" />
           <folding>
             <element signature="n#ul#0;n#li#2;n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#9;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#10;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#11;n#body#0;n#html#0;n#!!top" />
